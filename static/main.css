@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+
+    
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    color: green;
+    text-align: center;
+
+}
+
+a {
+    background-color: red;
+    box-shadow: 0 5px 0 darkred;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  a:hover {
+    background-color: #ce0606;
+    cursor: pointer;
+  }
+  
+  a:active {
+    box-shadow: none;
+    top: 5px;
+  }
+  
+p{
+    padding-top: 20px;
+    color: black;
+}
